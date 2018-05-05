@@ -80,7 +80,11 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "
+                      EL Bouazzaoui Cherraqi,
+                      I am a Ph.D Student at [University Mohammed V Rabat - Morocco](http://www.um5.ac.ma/um5r/), [Mohammadia Engineering School] (http://www.emi.ac.ma/), Supervised by [Abdelilah Maach] (https://www.researchgate.net/profile/Abdelilah_Maach),
+                      Network & Intelligent Systems Team, Computer Laboratory Research and Development, My research focuses on [Non-Intrusie Load Monitoring](http://ieeexplore.ieee.org/abstract/document/192069/?reload=true), and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+                      "
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
