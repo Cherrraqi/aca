@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2018-01-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Cherraqi E.B., Oukrich N., El Moumni S., Maach A. (2018) Discrete Wavelet Transform and Classifiers for Appliances Recognition. In: Ben Ahmed M., Boudhir A. (eds) Innovations in Smart Cities and Applications. SCAMS 2017. Lecture Notes in Networks and Systems, vol 37. Springer, Cham'
 ---
 -------------
 Abstract
@@ -15,5 +15,5 @@ Recognition of appliances’ signatures is an important task in energydisaggrega
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Cherraqi E.B., Oukrich N., El Moumni S., Maach A. (2018) Discrete Wavelet Transform and Classifiers for Appliances Recognition. In: Ben Ahmed M., Boudhir A. (eds) Innovations in Smart Cities and Applications. SCAMS 2017. Lecture Notes in Networks and Systems, vol 37. Springer, Cham
 -------------
