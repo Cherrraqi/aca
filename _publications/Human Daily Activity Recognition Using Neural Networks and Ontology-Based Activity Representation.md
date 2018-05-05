@@ -1,10 +1,10 @@
 ---
 title: "Human Daily Activity Recognition Using Neural Networks and Ontology-Based Activity Representation"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: 
+excerpt: ''
 date: 2018-01-01
-venue: 'Journal 1'
+venue: ''
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Oukrich N., Cherraqi E.B., Maach A. (2018) Human Daily Activity Recognition Using Neural Networks and Ontology-Based Activity Representation. In: Ben Ahmed M., Boudhir A. (eds) Innovations in Smart Cities and Applications. SCAMS 2017. Lecture Notes in Networks and Systems, vol 37. Springer, Cham'
 ---
