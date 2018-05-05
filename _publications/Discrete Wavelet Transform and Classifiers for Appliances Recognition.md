@@ -1,5 +1,5 @@
 ---
-title: "2-Discrete Wavelet Transform and Classifiers for Appliances Recognition"
+title: "Discrete Wavelet Transform and Classifiers for Appliances Recognition"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
