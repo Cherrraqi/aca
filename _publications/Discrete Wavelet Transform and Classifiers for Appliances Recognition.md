@@ -1,8 +1,8 @@
 ---
 title: "Discrete Wavelet Transform and Classifiers for Appliances Recognition"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: 
+excerpt: ''
 date: 2018-01-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
