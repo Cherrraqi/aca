@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "cherraqi EL Bouazzaoui"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "cherraqi EL Bouazzaoui"
 description              : &description "personal description"
 url                      : https://cherrraqi.github.io/aca #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['cherraqi EL Bouazzaoui', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "cherraqi EL Bouazzaoui"
   avatar           : "profile.png"
   bio              : "EL Bouazzaoui Cherraqi, Ph.D Student"
   location         : "Location"
