@@ -5,7 +5,7 @@ permalink:
 excerpt: ''
 date: 2017-12-01
 venue: ''
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://github.com/Cherrraqi/aca/files/paper1.pdf'
 citation: 'Cherraqi E.B., Maach A. (2018) Load Signatures Identification Based on Real Power Fluctuations. In: Noreddine G., Kacprzyk J. (eds) International Conference on Information Technology and Communication Systems. ITCS 2017. Advances in Intelligent Systems and Computing, vol 640. Springer, Cham.'
 ---
 -------------
