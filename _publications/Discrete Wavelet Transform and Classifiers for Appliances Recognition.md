@@ -10,7 +10,7 @@ paperurl: ''
 citation: 'Cherraqi E.B., Oukrich N., El Moumni S., Maach A. (2018) Discrete Wavelet Transform and Classifiers for Appliances Recognition. In: Ben Ahmed M., Boudhir A. (eds) Innovations in Smart Cities and Applications. SCAMS 2017. Lecture Notes in Networks and Systems, vol 37. Springer, Cham'
 
 ---
-[Dwonload paper here](https://github.com/Cherrraqi/aca/files/paper2.pdf)
+[Dwonload paper here](https://cherrraqi.github.io/aca/files/paper2.pdf)
 -------------
 
 # Abstract
