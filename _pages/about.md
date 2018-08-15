@@ -17,7 +17,7 @@ Multilayer Perceptron
 
 K-means
 ======
-
+[k-means](https://cocalc.com/projects/380a2d36-0f64-483f-aea8-749d9101d89c/files/2018-06-18-124354.html?session=default)
 # in progress
 
 # FCM
