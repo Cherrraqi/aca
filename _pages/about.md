@@ -13,4 +13,7 @@ redirect_from:
 
 [Read more ](https://cherrraqi.github.io/aca/files/2018-08-31-172724.html)
 
+# Deep Learning
+![Iris Data Exploration](https://cherrraqi.github.io/aca/files/cover.png)
+
 
