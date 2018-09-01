@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine learning Algorithms"
+title: "Machine learning"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,26 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# in progress
-
-Multilayer Perceptron
-======
-
-# in progress
-
-K-means
-======
-[k-means](https://cocalc.com/380a2d36-0f64-483f-aea8-749d9101d89c/raw/2018-06-18-124354.html)
-# in progress
-
-# FCM
+![Iris Data Exploration](https://cherrraqi.github.io/aca/files/iris.png)
 
 
-# in progress
-
-# Genetique algorithm
-
-
-# in progress
+[Read more ...](https://cherrraqi.github.io/aca/files/python.html)
 
 
