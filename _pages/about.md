@@ -13,7 +13,7 @@ redirect_from:
 
 [Read more ](https://cherrraqi.github.io/aca/files/2018-08-31-172724.html)
 
-# Data Visualiation 
+# Data Visualization
 [Data Visualization](https://cherrraqi.github.io/aca/files/2018-10-06-130331.html)
 
 
